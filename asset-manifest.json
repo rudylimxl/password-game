@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rudylimxl/password-game/static/css/main.e82e5004.css",
+    "main.js": "/rudylimxl/password-game/static/js/main.17b565d9.js",
+    "static/js/787.73cef194.chunk.js": "/rudylimxl/password-game/static/js/787.73cef194.chunk.js",
+    "static/media/logo.svg": "/rudylimxl/password-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rudylimxl/password-game/index.html",
+    "main.e82e5004.css.map": "/rudylimxl/password-game/static/css/main.e82e5004.css.map",
+    "main.17b565d9.js.map": "/rudylimxl/password-game/static/js/main.17b565d9.js.map",
+    "787.73cef194.chunk.js.map": "/rudylimxl/password-game/static/js/787.73cef194.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e82e5004.css",
+    "static/js/main.17b565d9.js"
+  ]
+}
